@@ -1,0 +1,3 @@
+print ("hello world")
+print ("I wanna run")
+print ("I wanna stay")
